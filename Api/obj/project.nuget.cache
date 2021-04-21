@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVfJZosHw7J70xN2OdnDXY4doL45j//LHSM4wv4/PhnZJGsenUkssoPwj80/Tx1xj42L9A+R+NXkWUGkrgmNuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\Georgian College\\1001_Information Encoding Standarts\\Assignment\\Final Assignment\\Authentication-NewApi\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
